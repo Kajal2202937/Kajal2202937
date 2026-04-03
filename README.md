@@ -1,5 +1,3 @@
-
-<!--
 **Kajal220293# Hi 👋, I'm Kajal
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building web applications and learning new technologies.
@@ -67,5 +65,3 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building web
 ---
 
 ⭐ Thanks for visiting my profile!
-- ⚡ Fun fact: ...
--->
